@@ -27,6 +27,8 @@ Compare various fine-tuning methods on BERTweet-based models for binary sentimen
 
 - `Demo.ipynb` — Loads models, evaluates, and predicts.
 - `training scripts/` — Notebooks for each fine-tuning method.
+- `Project Presentation Slides.pptx` - Presentation slides.
+- `Project Write-Up.pdf` - Project write-up.
 
 ## Notes
 
